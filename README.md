@@ -1,6 +1,6 @@
 # 7/22 디자인 -> 개발오프 과제
 
-# 완성본 이미
+# 완성본 이미지
 ![image](https://github.com/user-attachments/assets/d3b1f518-e082-42e7-a340-6ac91cfe78e3)
 
 # 마크업
